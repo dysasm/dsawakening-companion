@@ -132,7 +132,7 @@ The JSON files in `crates/core/data` are embedded at compile time with `include_
 
 ## Packaging
 
-`pnpm desktop:build` uses the Tauri configuration in `apps/desktop/src-tauri/tauri.conf.json` and builds the targets supported by the host. The Windows NSIS installer uses the `both` install mode. The app identifier is `io.github.lordsilver.dragonsword-save-editor`, and settings live in the platform app-data directory under that identifier.
+`pnpm desktop:build` uses the Tauri configuration in `apps/desktop/src-tauri/tauri.conf.json` and builds the targets supported by the host. The Windows NSIS installer uses the `both` install mode. The app identifier is `io.github.dysasm.dsawakening-companion`, and settings live in the platform app-data directory under that identifier.
 
 ## Continuous integration
 
