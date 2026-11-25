@@ -7,7 +7,7 @@ default-members = ["crates/core", "apps/desktop/src-tauri"]
 version = "0.1.8"
 edition = "2024"
 rust-version = "1.99"
-repository = "https://github.com/lordsilver/dragonsword-save-editor"
+repository = "https://github.com/dysasm/dsawakening-companion"
 
 [workspace.dependencies]
 dsa-core = { path = "crates/core" }

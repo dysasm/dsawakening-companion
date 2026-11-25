@@ -16,7 +16,7 @@ dotnet DsaExport.dll export "C:\Games\DragonSword Awakening" <tools-dir> <tiles-
 ```
 
 - **DsaExport:** built 2026-10-27 from `tools/asset-export/Program.cs` of
-  `lordsilver/dragonsword-save-editor` at b9860de. The local copy adds one command (`shaders`); the
+  `dysasm/dsawakening-companion` at 966365c. The local copy adds one command (`shaders`); the
   `export`, `inspect`, `raw` and `dump` code is unchanged. The project has no version number.
   `DsaExport.dll` SHA-256: `cedb079f…5d8ba`.
 - **CUE4Parse:** 1.2.2 (`Directory.Build.props`), git df14b992 (2026-10-26, "USD PBR"), from
